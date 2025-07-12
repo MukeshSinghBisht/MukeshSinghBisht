@@ -34,5 +34,5 @@ Freelancers in India often struggle with invoice formats, GST compliance, and ea
 [Live Demo Link – coming soon]  
 (Or add `npm run dev` steps for local run)
 
-## 🗃️ Folder Structure
+
 
