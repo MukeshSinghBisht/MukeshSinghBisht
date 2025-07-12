@@ -1,172 +1,140 @@
-Mukesh Singh Bisht
-Senior Backend Developer | Node.js | NestJS | AWS | Microservices
-Haldwani, Uttarakhand – 263139
-📞 885-911-6983 | ✉️ bishtmukeshsingh1993@gmail.com | GitHub: github.com/MukeshSinghBisht | LinkedIn: [linkedin.com/in/mukeshbisht](https://www.linkedin.com/in/mukesh-singh-bisht-59083635/)
+# 👋 Mukesh Singh Bisht
 
-🎓 Summary
-Senior Backend Developer with 7.5+ years of experience in designing and implementing scalable backend architectures using Node.js, NestJS, and PostgreSQL. Proficient in building modular microservices and serverless solutions on AWS. Familiar with GraphQL concepts, event-driven systems, and developer tooling. Delivered systems in fintech, e-commerce, and real estate. Collaborative, delivery-oriented, and adaptable to fast-paced product environments.
+**Senior Backend Developer** | Node.js • NestJS • AWS • Microservices  
+📍 Haldwani, Uttarakhand – 263139  
+📞 885-911-6983 | ✉️ bishtmukeshsingh1993@gmail.com  
+🔗 [GitHub](https://github.com/MukeshSinghBisht) | [LinkedIn](https://www.linkedin.com/in/mukeshbisht)
 
-⚙️ Skills
-Languages & Frameworks: Node.js, NestJS, Express.js, JavaScript, TypeScript
-API & Architecture: REST APIs, GraphQL (Apollo, Hasura-ready), Microservices, Event-driven systems
-Cloud & DevOps: AWS Lambda, Step Functions, API Gateway, Docker, CI/CD
-Database: PostgreSQL, MongoDB, Redis, DynamoDB
-Tools & Testing: Git, Postman, Mocha, Chai, Swagger, Serverless Framework
-Other: Agile, System Design, Authentication/Authorization, Webhooks
+---
 
-💼 Work Experience
-Senior Software Engineer
-Brainvire Infotech Inc. (Remote)
-Dec 2021 – Present
+## 🧠 Summary
 
-Developed 12+ microservices in NestJS & PostgreSQL, handling millions of daily requests.
+Senior Backend Developer with 7.5+ years of experience in building scalable microservices, REST/GraphQL APIs, and serverless architectures using **Node.js**, **NestJS**, **PostgreSQL**, and **AWS**. Specialized in fintech, e-commerce, and real estate platforms. Skilled in team mentoring, client interaction, and building robust systems with **TDD**, **Docker**, and **Event-Driven** architecture. Contributor to open-source projects and builder of multiple personal tools and SaaS apps.
 
-Migrated systems to AWS Lambda using Serverless Framework, reducing cost and increasing scalability.
+---
 
-Mentored 5+ junior devs and improved overall backend velocity.
+## ⚙️ Tech Stack
 
-Used WebSockets and REST APIs to deliver real-time updates for fintech & real estate clients.
+**Languages & Frameworks:**  
+Node.js, JavaScript, TypeScript, Express.js, NestJS
 
-Software Developer – Backend
-Hippo Innovations Pvt. Ltd. (Remote)
-Jun 2020 – Dec 2021
+**Cloud & DevOps:**  
+AWS (Lambda, Step Functions, API Gateway), Docker, Serverless Framework, Firebase
 
-Built 20+ REST APIs powering multi-tenant e-commerce backend in Node.js.
+**Databases:**  
+PostgreSQL, MongoDB, Redis, DynamoDB, MySQL
 
-Used Redis and schema optimization to improve response times by 30%.
+**API & Architecture:**  
+REST APIs, GraphQL (Apollo, Hasura), Microservices, Kafka, Event-Driven Systems
 
-Led feature delivery and collaborated with product & frontend teams.
+**Testing & Tools:**  
+Mocha, Chai, Git, Swagger, Postman, Lucidchart, Sentry, Prometheus
 
-Software Developer
-Prolitus Technologies Pvt. Ltd.
-Sep 2019 – May 2020
+---
 
-Built backend modules using Node.js and Angular for crypto payments and admin dashboards.
+## 💼 Work Experience
 
-Optimized PostgreSQL queries and added Redis caching.
+### 🏢 Brainvire Infotech (Senior Software Engineer, Remote)  
+**Dec 2021 – Present**  
+- Built 12+ microservices using NestJS & PostgreSQL
+- Migrated services to AWS Lambda using Serverless Framework
+- Improved system throughput by 40% and mentored 5+ developers
 
-Junior Developer – Full Stack
-Mind In Motion Pvt. Ltd.
-Jan 2018 – Sep 2019
+### 🛍️ Hippo Innovations (Backend Developer, Remote)  
+**Jun 2020 – Dec 2021**  
+- Built and optimized 20+ APIs for e-commerce SaaS
+- Improved backend response by 30% using Redis and query optimization
 
-Delivered REST APIs, frontend integration, and real-time features for custom SaaS systems.
+### 🔐 Prolitus Technologies (Backend Developer)  
+**Sep 2019 – May 2020**  
+- Developed crypto admin dashboards and backend services using Node & Angular
 
-📈 Projects
-Client/Enterprise Projects
-WhatsApp Lead Tool (Lead Capture & Analytics)
-Node.js, Kafka, GraphQL, Hasura, PostgreSQL, Docker, Next.js, Redux
+### 🧪 Mind in Motion (Junior Fullstack Developer)  
+**Jan 2018 – Sep 2019**  
+- Built full-stack SaaS modules with Angular + Node.js
 
-Built a WhatsApp-based lead capture system with a form generator and contact status tracking.
+---
 
-Used Kafka for lead ingestion and DLQ management, integrating Hasura for instant GraphQL APIs.
+## 🚀 Featured Projects
 
-Implemented tag-based filtering, lead exports to CSV, and basic click tracking.
+### 📞 Call48 (Telecom Platform)  
+**Node.js, PostgreSQL, Redis**  
+Built scalable PBX/DID APIs for telecom services. Handled 3× concurrent DID purchases with 40% lower latency.
 
-Designed the architecture for multi-user onboarding and business-specific Webhook listeners.
+### 💰 Secpay (Crypto Payments)  
+**AWS Lambda, gRPC, DynamoDB, Serverless, TypeScript**  
+Built TRISA-compliant payment plugins for WooCommerce & Shopify. Implemented Step Function state machines with real-time GraphQL monitoring.
 
-Call48 (Telecom SaaS)
-Node.js, PostgreSQL, Redis
+### 💇 Blush Now (Beauty App)  
+**Node.js, Redis, Stripe, Sentry, Forest Admin**  
+Developed booking & loyalty APIs used by 1K+ daily users. Integrated Sentry for observability and error alerts.
 
-Designed scalable PBX/DID management system with concurrency handling and logging.
+### 📦 Rasep (Supply Chain)  
+**NestJS, PostgreSQL, React, Hasura**  
+Real-time supply tracking with Hasura event triggers and RBAC.
 
-Enhanced onboarding DX with CLI automation scripts and internal API documentation.
+### 📊 Twest (Crypto Finance Tracker)  
+**Node.js, MySQL, Docker**  
+Built dashboard and APIs for live crypto asset tracking and trade flows.
 
-Secpay (Crypto Payment)
-Node.js, AWS Lambda, DynamoDB, gRPC, TypeScript
+### 🏠 Hamptons (Real Estate Scraper)  
+**Node.js, MongoDB, React**  
+Scraped 1K+ US listings daily and pipelined into MongoDB.
 
-Implemented end-to-end crypto payments with TRISA compliance, tested with TDD.
+### 🛒 StoreHippo (E-commerce Platform)  
+**Node.js, AngularJS, MongoDB, Docker**  
+Delivered multi-vendor e-commerce backend and discount engine, powering 500+ brands.
 
-Created state machine workflows with AWS Step Functions and integrated GraphQL admin interface for monitoring.
+### 💱 Virtuse (Crypto Wallet & Exchange)  
+**Node.js, MySQL, Docker, AngularJS**  
+Designed secure wallet module and asset management flows for exchange.
 
-Blush Now (Beauty App)
-Express.js, Redis, Stripe, Sentry
+### 🧹 ExtraHand (On-demand Jobs)  
+**Node.js, MongoDB, Redis, React Native**  
+Mobile backend for micro-tasking and real-time job management.
 
-Developed APIs for bookings, payments, loyalty; added robust logging & alerting.
+### 🤝 Charity Ransom (Crowdfunding)  
+**Node.js, Angular 7, AWS, MongoDB**  
+Built campaign tracking dashboard, dynamic fund targets & secure payment flows.
 
-Delivered GraphQL-compatible endpoints and modular resolver patterns.
+---
 
-Rasep (Supply Chain)
-NestJS, PostgreSQL, React, Hasura
+## 🛠️ Personal Projects
 
-Built modular services with role-based auth and event-driven communication.
+### 💬 WhatsApp Lead Tool (MVP SaaS)  
+**Node.js, Kafka, Hasura, GraphQL, PostgreSQL, Next.js**  
+Built WhatsApp lead capture with DLQ, Webhook listeners, tag filtering & CSV export.  
+> Real-time GraphQL APIs powered by Hasura.
 
-Set up Hasura for instant GraphQL API generation from PostgreSQL schema and tested event triggers for lead capture.
+### 🧾 Invoice Generator for Freelancers  
+**Node.js, React, Firebase, MongoDB**  
+SaaS tool for Indian freelancers to create GST-compliant invoices, export to PDF, and track income.
 
-Twest (Crypto Finance)
-Node.js, MySQL, Docker
+### 💡 node-decorator-lite  
+**Vanilla Node.js + Decorators (no TypeScript)**  
+Lightweight decorator library for routing, DI, middlewares — inspired by NestJS.
 
-Managed real-time finance data and improved system performance by 25%.
+### 💼 HisaabKitaab (Expense Tracker)  
+**Node.js, MongoDB, React**  
+Personal budgeting tool with category filtering, monthly summaries & CSV export.
 
-Planned future integration with GraphQL engine for unified schema and developer tooling.
+### 🧠 AI-Powered IDs *(Private)*  
+**Node.js, OpenAI API, OCR, React**  
+AI tool to extract structured JSON data from Indian ID cards (PAN, Aadhaar, DL).
 
-Hamptons (Real Estate Scraper)
-Node.js, MongoDB, Express.js, React
+### 🔍 Contributed: [natural](https://github.com/NaturalNode/natural)  
+JavaScript NLP library – Improved tokenization logic and documentation.
 
-Built a scraper to fetch 1000+ listings daily from real estate portals and persist in MongoDB.
+---
 
-StoreHippo (E-commerce SaaS)
-Node.js, Express.js, Docker, MongoDB, AngularJS
+## 📚 Education
 
-Created multi-vendor e-commerce backend with custom discount/offer engine.
+**B.Tech in Applied Electronics & Instrumentation**  
+College of Engineering Roorkee (2013 – 2016)
 
-Served 500+ e-commerce brands; optimized queries for high traffic scenarios.
+---
 
-Virtuse (Crypto Wallet & Exchange)
-Node.js, MySQL, Docker, AngularJS
+## 🎯 Interests
 
-Developed exchange modules for crypto trading and secure wallet operations.
+Tech Blogging • OSS Contributions • Mentoring • Remote Work Culture
 
-ExtraHand (Job Board)
-Node.js, Redis, MongoDB, React Native
-
-Delivered backend for mobile job board platform with real-time task tracking.
-
-Charity Ransom (Crowdfunding Platform)
-JavaScript, Node.js, MongoDB, AWS, Angular 7
-
-Built and deployed a crowdfunding platform with dynamic campaign dashboards.
-
-💡 Personal Projects
-node-decorator-lite (Open Source)
-Node.js, JavaScript, Decorators
-
-Created lightweight decorator support for Node.js to enable cleaner syntax without TypeScript.
-
-Implemented decorators like @Controller, @Injectable, @Middleware, bringing a NestJS-like DX to vanilla JS.
-
-invoice-generator-freelancers
-Node.js, React, MongoDB, Firebase Hosting
-
-Designed a modern invoicing SaaS for Indian freelancers with GST support and PDF export.
-
-Built responsive frontend with React and serverless backend with Express & Firebase.
-
-hisaabKitaab
-Node.js, React, MongoDB
-
-Personal expense tracker with tag-based filtering, monthly summaries, and CSV export.
-
-Designed mobile-first UI and multi-user login support.
-
-ai-powered-ids (Private)
-Node.js, OpenAI API, OCR, React
-
-Built an AI tool to extract structured identity details from scanned images (PAN, Aadhaar, DL).
-
-Used OCR + OpenAI to identify fields, verify format, and return normalized JSON data.
-
-Used by internal tools for identity pre-filling and verification flows.
-
-natural (Open Source Contributions)
-JavaScript, NLP
-
-Contributed improvements and documentation to the natural JavaScript NLP library.
-
-Enhanced tokenization and pattern recognition components.
-
-🎓 Education
-B.Tech, Applied Electronics & Instrumentation
-College of Engineering Roorkee | 2013 – 2016
-
-📚 Interests
-Reading Tech Blogs | Open Source Projects | Mentoring | Remote Work Culture
