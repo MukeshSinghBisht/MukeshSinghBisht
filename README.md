@@ -9,7 +9,7 @@
 
 ## 🧠 Summary
 
-Senior Backend Developer with 7.5+ years of experience in building scalable microservices, REST/GraphQL APIs, and serverless architectures using **Node.js**, **NestJS**, **PostgreSQL**, and **AWS**. Specialized in fintech, e-commerce, and real estate platforms. Skilled in team mentoring, client interaction, and building robust systems with **TDD**, **Docker**, and **Event-Driven** architecture. Contributor to open-source projects and builder of multiple personal tools and SaaS apps.
+Senior Backend Developer with 8.5+ years of experience in building scalable microservices, REST/GraphQL APIs, and serverless architectures using **Node.js**, **NestJS**, **PostgreSQL**, and **AWS**. Specialized in fintech, e-commerce, and real estate platforms. Skilled in team mentoring, client interaction, and building robust systems with **TDD**, **Docker**, and **Event-Driven** architecture. Contributor to open-source projects and builder of multiple personal tools and SaaS apps.
 
 ---
 
