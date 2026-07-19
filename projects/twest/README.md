@@ -35,9 +35,4 @@ Twest is a real-time cryptocurrency finance platform enabling users to manage as
 - Handled transaction consistency and rollback mechanisms
 - Led API documentation and collaboration with frontend team
 
-## 🚀 Local Setup
 
-```bash
-git clone https://github.com/MukeshSinghBisht/twest-crypto-finance.git
-cd twest-crypto-finance
-docker-compose up --build
